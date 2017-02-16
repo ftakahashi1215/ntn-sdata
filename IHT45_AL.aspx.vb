@@ -94,11 +94,7 @@
         If myDate2 < myDate1 Then
             tbxAlDate1.Text = tbxAlDate2.Text
         End If
-
-
         '
-
-
 
     End Sub
 
